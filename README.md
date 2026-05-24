@@ -29,8 +29,8 @@ Projektin vaiheittainen toteutus
 Vaihe 1: Infrastruktuurin pystytys
 tulossa...
 
-Vaihe 2: SIEM-integraatio ja seuranta
-tulossa...
+## Vaihe 2: SIEM-integraatio ja seuranta
+kuvatekstit tulossa
 <img src="kuvat/new_agent.png" alt="Uuden agentin luonti" title="Uuden agentin luonti">
 
 <img src="kuvat/agennti_asennus.png" alt="Agentin asennusskripiti" title="Agentin asennusskripti">
