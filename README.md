@@ -31,6 +31,14 @@ tulossa...
 
 Vaihe 2: SIEM-integraatio ja seuranta
 tulossa...
+<img src="kuvat/new_agent.png" alt="Uuden agentin luonti" title="Uuden agentin luonti">
+
+<img src="kuvat/agennti_asennus.png" alt="Agentin asennusskripiti" title="Agentin asennusskripti">
+
+<img src="kuvat/restart.png" alt="Agentin käynnistys" title="Agentin käynnistys">
+
+<img src="kuvat/active_agent.png" alt="Wazuh-agentti aktiivisena" title="Wazuh-agentti aktiivisena">
+
 
 Vaihe 3: Hyökkäyksen simulointi
 tulossa...
