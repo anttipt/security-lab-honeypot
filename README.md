@@ -26,8 +26,26 @@ konetta tarjolla)
 
 Projektin vaiheittainen toteutus
 
-Vaihe 1: Infrastruktuurin pystytys
-tulossa...
+## Vaihe 1: Infrastruktuurin pystytys
+
+<img src="kuvat/uusipalvelin1.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/uusipalvelin2.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset2.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset3.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset4.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset5.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+<img src="kuvat/palvelinasetukset6.png" alt="Palvelimen luonti aws:ssä" title="Palvelimen luonti aws:ssä">
+
+
+
 
 ## Vaihe 2: SIEM-integraatio ja seuranta
 kuvatekstit tulossa
